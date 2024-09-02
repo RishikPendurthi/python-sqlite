@@ -1,1 +1,1 @@
-# python-sqlite
+# python-sqlite-example
